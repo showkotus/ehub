@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fa-star {
+    color: goldenrod;
+    font-size: larger;
+}
+
+.font-icon {
+    font-size: 30px;
+    color: gray;
+}
+
+.footer {
+    width: 100%;
+    max-width: ;
+    min-height: 300px;
+    background-color: #161616;
+    color: white;
+}
+
+/* .carousel-caption-override {
+    bottom: auto;
+} */
+
+/* .carousel-caption {
+    position: relative;
+    top: auto;
+    bottom: auto;
+} */
