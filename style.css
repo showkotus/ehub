@@ -14,18 +14,8 @@ body {
 
 .footer {
     width: 100%;
-    max-width: ;
+
     min-height: 300px;
     background-color: #161616;
     color: white;
 }
-
-/* .carousel-caption-override {
-    bottom: auto;
-} */
-
-/* .carousel-caption {
-    position: relative;
-    top: auto;
-    bottom: auto;
-} */
